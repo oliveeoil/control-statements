@@ -1,0 +1,4 @@
+In C++, the boolean values are true and false. Though they can be treated as 1 and 0, within the language, they are true and false. The way to write conditional statements in C++ are with if/ else if/ else. The language doesn’t support any other type of conditional statements. Curly brackets { },  are used in order to delimit code blocks. 
+In short circuiting, the program stops reading the statements as soon as it determines the outcome of the statement. This means that it will not always read the second statement if the first will determine the answer. 
+During a switch case statement, in order to get out of them, you need to break the code. 
+The main types of loops in C++ are for loops, while loops, and do while loops. The for loop keeps checking the condition while going through the loop, while loops check once and exit when done, and do-while loops exit and then check the condition. 
